@@ -1,5 +1,4 @@
-# echarts
-
+#从网上找的原生JS翻页时钟素材 自己改成vue倒计时 没啥技术含量
 ## Project setup
 ```
 npm install
